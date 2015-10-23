@@ -6,7 +6,7 @@ body {  margin: 0;
 }
 
 a:link, a:visited, a:active { text-decoration:none; color: grey;}
-a:hover { text-decoration: overline underline;}
+/*a:hover { text-decoration: overline underline;} too much*/
 
 .container {
   background: -webkit-linear-gradient(90deg, #00c6ff 15%, #0072ff 75%); /* Chrome 10+, Saf5.1+ */
